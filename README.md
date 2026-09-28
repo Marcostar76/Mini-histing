@@ -1,1 +1,1 @@
-# Mini-histing
+# Mini-hosting
